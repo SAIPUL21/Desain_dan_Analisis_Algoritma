@@ -22,7 +22,7 @@ jadi apa itu Big-O Notation ?
 Big-O Notation adalah cara untuk mengkonversi keseluruhan langkah-langkah suatu algoritma kedalam bentuk Aljabar, yaitu dengan menghiraukan konstanta yang lebih kecil dan koefisien yang tidak berdampak besar terhadap keseluruhan kompleksitas permasalahan yang diselesaikan oleh algoritma tersebut.
 
 Mari kita liat contoh dibawah ini:
-![gambar Big-O Notation](gambar1.png)
+![gambar Big-O Notation](Gambar1.png)
 
 Sederhananya, semua contoh yang ada diatas mengatakan bahwa **_“kita hanya akan melihat faktor yang memiliki dampak paling besar terhadap nilai yang dihasilkan oleh algoritma tersebut”_**.
 
